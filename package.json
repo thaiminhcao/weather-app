@@ -9,9 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "19.0.0-rc-7771d3a7-20240827",
-    "react-dom": "19.0.0-rc-7771d3a7-20240827",
-    "next": "15.0.0-canary.136"
+    "babel-plugin-react-compiler": "^0.0.0-experimental-4e0eccf-20240830",
+    "exceljs": "^4.4.0",
+    "next": "^15.0.0-rc.0",
+    "react": "^19.0.0-rc-e56f4ae3-20240830",
+    "react-dom": "^19.0.0-rc-e56f4ae3-20240830",
+    "xlsx": "^0.18.5"
   },
   "devDependencies": {
     "typescript": "^5",
